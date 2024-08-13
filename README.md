@@ -15,6 +15,7 @@ This is my GitHub Repo for the course **CS6600: Computer Architecture** that I c
 ## **🛠️ Homeworks**
 - **[Homework 1](https://drive.google.com/file/d/1gxVQ3fxYYu5ggrBQejgv5sPnm41oBIrU/view?usp=drive_link)**
   - Amdahl's Law, CPU Time Equation, Performance and Means, Moore's Law
+  - My [answers](https://drive.google.com/file/d/1C71sioUvfRPWgVDueMGomFrpThHpYi25/view?usp=drive_link) to the homework.
     
 ## **🚀 Projects**
 - None as of now. Coming up soon, will be updated.
