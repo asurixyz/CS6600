@@ -2,6 +2,8 @@
 
 This is my GitHub Repo for the course **CS6600: Computer Architecture** that I currently am doing. I will be uploading all my notes, resources and projects here, and feel free to mail me in case you have any issues. This page will be constantly updated.
 
+**Date of Last Update** - 16th August 2024
+
 ## **📚 Course Overview**
 - **Course Title**: CS6600 - Computer Architecture
 - **Instructor**: Prof. **[Gopalakrishnan Srinivasan](https://scholar.google.com/citations?user=ynJrDpAAAAAJ&hl=en)**
@@ -26,6 +28,7 @@ This is my GitHub Repo for the course **CS6600: Computer Architecture** that I c
 
 ## **📄 Papers**
 - **[Paper 1](https://drive.google.com/file/d/1JhBlhvr8e-pXiORUmIpEvd-Ezcb3zhSl/view?usp=drive_link)** - The Preliminary Discussion of the Logical Design of an Electronic Computing Instrument - Von Neumann
+- **[Paper 2](https://drive.google.com/file/d/1b2IChMsKK_ZwsHiCsBbZE_gkoMihvSSW/view?usp=drive_link)** - Skewed Associated Caches - Andre Seznec
 
 ## **🔗 Additional Resources**
 - J.P. Shen and M.H. Lipasti. Modern Processor Design: Fundamentals of  Superscalar Processors. McGraw-Hill Publishers, 2005.
